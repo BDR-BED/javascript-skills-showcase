@@ -2,6 +2,8 @@
 
 This project demonstrates a variety of modern and essential features of **Vanilla JavaScript**, including core syntax, DOM manipulation, asynchronous programming, and the latest ECMAScript updates.
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 ---
 
 ## 🚀 What's Inside
